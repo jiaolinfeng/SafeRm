@@ -1,4 +1,0 @@
-1. a timer task to delete files in /tmp/garbge.
-2. when the file has the same name with files deleted before, do not overload.
-3. user can set where deleted files put.
-4. when mv error(for example, file not exist), how to change the error message?
